@@ -9,9 +9,9 @@ namespace IfStatement
     {
         static void Main(string[] args)
         {
-            int score = 100;
+            //int score = 100;
 
-            int pointsNeededToPass = 100;
+            //int pointsNeededToPass = 100;
 
             //The Initial way
             //bool levelComplete;
@@ -30,15 +30,15 @@ namespace IfStatement
             //Console.WriteLine("Try next time");
 
             //Exercise
-            int number;
+            //int number;
 
-            Console.WriteLine("Enter a  number");
-            string input = Console.ReadLine();
-            number = Convert.ToInt32(input);
+            //Console.WriteLine("Enter a  number");
+            //string input = Console.ReadLine();
+            //number = Convert.ToInt32(input);
 
-            
 
-            
+
+
         }
     }
 }
